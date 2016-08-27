@@ -17,5 +17,5 @@ Run soundsense/SoundSense.exe before starting DF.
 I do not own any of the code in this repository.  
 Soundsense and audio files therein are considered to be OpenSource, and all attributions should go to their respective owners and developers.
 
-Soundsense - http://df.zweistein.cz/soundsense/
+Soundsense - http://df.zweistein.cz/soundsense/  
 Audio - See respective attribution.txt files in `soundsense/packs/*`
